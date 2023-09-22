@@ -1,0 +1,7 @@
+﻿  P002_valor_absoluto_Diego.cpp
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\P002_valor_absoluto_Diego.cpp(16,11): warning C4101: 'IMC': variable local sin referencia
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\P002_valor_absoluto_Diego.cpp(15,11): warning C4101: 'altura': variable local sin referencia
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\P002_valor_absoluto_Diego.cpp(12,10): warning C4101: 'sexo': variable local sin referencia
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\P002_valor_absoluto_Diego.cpp(14,9): warning C4101: 'peso': variable local sin referencia
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\P002_valor_absoluto_Diego.cpp(13,9): warning C4101: 'edad': variable local sin referencia
+  P002_valor_absoluto_Diego.vcxproj -> C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P002_valor_absoluto_Diego\x64\Debug\P002_valor_absoluto_Diego.exe
