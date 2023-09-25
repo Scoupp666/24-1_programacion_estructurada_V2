@@ -6,15 +6,16 @@
 
 #include <iostream>
 #include <locale.h>
+#include "string"
 int main()
 {
     setlocale(LC_ALL, "es_MX.UTF-8");
     bool sintoma1, sintoma2, sintoma3 = true;
     std::string Nombre;
     std::string Relato;
-    char sexo;
-    int edad;
-    int peso;
+    char sexo [1];
+    int edad = 0;
+    int peso = 0;
     float altura;
     float IMC;
 
@@ -29,6 +30,26 @@ int main()
     std::cin >> sintoma2;
     std::cout << "tienes covid19 donde si es 1 y donde no es 0";
     std::cin >> sintoma3;
+
+    std::cout << "Dime tu nombre\n";
+    std::cin >> Nombre;
+    std::cout << "desde cuando te sientes mal\n";
+    std::cin >> Relato;
+
+    std::cout << "cuantos anios tienes";
+    std::cin >> edad;
+
+
+
+
+
+      
+
+   
+
+
+
+
 
 
 }
