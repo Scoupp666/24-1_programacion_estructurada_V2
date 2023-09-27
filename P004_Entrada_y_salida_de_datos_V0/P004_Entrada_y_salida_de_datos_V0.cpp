@@ -13,11 +13,12 @@ int main()
     bool sintoma1, sintoma2, sintoma3 = true;
     std::string Nombre;
     std::string Relato;
-    char sexo [1];
+    char sexo;
     int edad = 0;
-    int peso = 0;
-    float altura;
-    float IMC;
+    float peso = 0;
+    float altura = 0;
+    float IMC = 0;
+    IMC = peso / altura;
 
 
 
@@ -31,13 +32,31 @@ int main()
     std::cout << "tienes covid19 donde si es 1 y donde no es 0";
     std::cin >> sintoma3;
 
+    std::cout << "eres Hombre(h) o Mujer(m)\n";
+    std::cin >> sexo;
+
     std::cout << "Dime tu nombre\n";
-    std::cin >> Nombre;
+    std::cin.ignore();
+    getline(std::cin, Nombre);
     std::cout << "desde cuando te sientes mal\n";
-    std::cin >> Relato;
+    getline(std::cin, Relato);
 
     std::cout << "cuantos anios tienes";
     std::cin >> edad;
+    
+    std::cout << "cuantos kilos pesas\n";
+    std::cin >> peso;
+    std::cout << "cuanto mides\n";
+    std::cin >> altura;
+    std::cin.ignore();
+    IMC = peso / altura;
+    std::cout << "Tu indice de masa corporal es" << IMC << std::endl;
+
+
+        
+
+
+
 
 
 

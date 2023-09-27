@@ -1,5 +1,2 @@
 ﻿  P004_Entrada_y_salida_de_datos_V0.cpp
-C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P004_Entrada_y_salida_de_datos_V0\P004_Entrada_y_salida_de_datos_V0.cpp(20,11): warning C4101: 'IMC': variable local sin referencia
-C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P004_Entrada_y_salida_de_datos_V0\P004_Entrada_y_salida_de_datos_V0.cpp(19,11): warning C4101: 'altura': variable local sin referencia
-C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P004_Entrada_y_salida_de_datos_V0\P004_Entrada_y_salida_de_datos_V0.cpp(16,10): warning C4101: 'sexo': variable local sin referencia
   P004_Entrada_y_salida_de_datos_V0.vcxproj -> C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P004_Entrada_y_salida_de_datos_V0\x64\Debug\P004_Entrada_y_salida_de_datos_V0.exe

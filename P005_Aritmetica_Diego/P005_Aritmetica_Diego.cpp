@@ -1,11 +1,4 @@
-// P005_Aritmetica_Diego.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
-
-#include <iostream>
-
-int main()
-{
-    // P005_Aritmeticos_V0.cpp :
+// P005_Aritmeticos_V0.cpp :
 // Mauricio Cabrera
 // Esta practica será un repaso de los operadores aritmeticos, Raiz y Potencia.
 
@@ -14,7 +7,8 @@ int main()
 #include <math.h>
 
     int main()
-    {   //Declaración de variables
+    {
+        //Declaración de variables
         float a = 0;
         float b = 0;
         float c = 0;
@@ -37,10 +31,21 @@ int main()
         c = pow(c, .3333);
         std::cout << "La raiz cuadrada del resultado es: " << c <<
             std::endl << d;
+        std::cin.ignore();
+        std::cout << "ingresa un numero: \n";
+        std::cin >> a;
+        std::cout << "ingresa el numero por el que lo quieres sumar: \n";
+        std::cin >> b;
+        a + b = c;
+        std::cout << "El resultado de la suma es" << c << std::endl;
+        a - b = c;
+        std::cout << "El resultado ed la resta es" << c << std::endl;
+        a * b + c;
+        std::cout << "El resultado de la multiplicacion es" << c << std::endl;
+        a / b = 0;
+        std::cout << "El resultado de la division es" << c << std::endl;
 
     }
-    
-}
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
