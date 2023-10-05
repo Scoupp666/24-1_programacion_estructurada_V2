@@ -1,0 +1,4 @@
+﻿  P001_Hola_Mundo_V2.cpp
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P001_Hola_Mundo_V2\P001_Hola_Mundo_V2.cpp(86,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P001_Hola_Mundo_V2\P001_Hola_Mundo_V2.cpp(88,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P001_Hola_Mundo_V2.vcxproj -> C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P001_Hola_Mundo_V2\x64\Debug\P001_Hola_Mundo_V2.exe
