@@ -49,7 +49,7 @@ int main()
     std::cout << "cuanto mides\n";
     std::cin >> altura;
     std::cin.ignore();
-    IMC = peso / altura;
+    IMC = peso / pow(altura,2);
     std::cout << "Tu indice de masa corporal es" << IMC << std::endl;
 
 

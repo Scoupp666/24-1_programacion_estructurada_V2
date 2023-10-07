@@ -12,12 +12,12 @@ int main()
 	std::cin >> num1;
 	if (num1 > num2)
 	{
-		std::cout << "el valor absoluto de tu numero es" << num1;
+		std::cout << "el valor absoluto de tu numero es" << num1; 
 	}
 	else
 	{
 		num1 = num1 * (-1);
-		std::cout << "el valor absoluto de tu numero es" << num1;
+		std::cout << "el valor absoluto de tu numero es" << num1; 
 	}
 }
 
