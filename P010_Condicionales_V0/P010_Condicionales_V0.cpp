@@ -29,10 +29,9 @@ int main()
             std::cout << "bienvenido\n";
             std::cout << "usuario y contraseña correctos\n";
             std::cout << "disfrute el juego\n";
-
         }
         else
-        {
+        { 
             std::cout << "usuario o contraseña incorrectos\n"; 
             std::cout << "desea intentar de nuevo?";
             std::cin >> continuar;
