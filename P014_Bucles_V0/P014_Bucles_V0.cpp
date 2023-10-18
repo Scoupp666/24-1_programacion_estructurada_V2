@@ -19,7 +19,7 @@ int main()
 
     while (repetir)
     {
-        std::cout << "Que opción deseas realizar? \n1,Contador rapido de 1000 a 0 \n2,Contador lento de 100 a 0 \n3, \n4 \n";
+        std::cout << "Que opción deseas realizar? \n1,Contador rapido de 1000 a 0 \n2,Contador lento de 100 a 0 \n3 \n";
         std::cin >> opc;
 
         switch (opc)
@@ -45,12 +45,8 @@ int main()
                 i--;  
             } while (i >= 0);
             break;
-            
+
         case 2:
-
-            break;
-
-        case 3:
             for (i = 100; i >= 0; i = i - 1)
             {
                 std::cout << "El contador va en: " << i << std::endl;
@@ -58,10 +54,10 @@ int main()
             }
             break;
 
-        case 4:
-            for (int i = 0; i <= 100; i = i + 10)
+        case 3:
+            for (int i = 0; i <= 100; i = i + 1) 
             {
-                std::cout << i << std::endl;
+                std::cout << i << std::endl;  
             }
             break;
         }
