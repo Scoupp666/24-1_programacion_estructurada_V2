@@ -1,0 +1,4 @@
+﻿  P015_Batalla_Pokemon_V0.cpp
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P015_Batalla_Pokemon_V0\P015_Batalla_Pokemon_V0.cpp(43,27): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P015_Batalla_Pokemon_V0\P015_Batalla_Pokemon_V0.cpp(13,9): warning C4101: 'pikachu': variable local sin referencia
+C:\Users\delfi\OneDrive\Escritorio\Amerike\SEMESTRE 1\Fundamentos de programación\Practicas\24-1_programacion_estructurada_V2\P015_Batalla_Pokemon_V0\P015_Batalla_Pokemon_V0.cpp(48): error C4700: se utilizó la variable local 'charizard' sin inicializar
