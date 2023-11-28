@@ -3,13 +3,14 @@
 //
 
 #include <iostream>
-
+#include <windows.h>
 int main()
 {
     bool seguir = true;
 
     while (seguir)
     {
+        setlocale(LC_ALL, "es_MX.UTF-8");
         int opc = 0;
         int Numerodecimal;
         int Numerodecimal_2;
