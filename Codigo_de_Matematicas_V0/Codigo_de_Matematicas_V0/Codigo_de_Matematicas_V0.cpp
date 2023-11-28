@@ -60,6 +60,9 @@ int main()
         {
         case 1:
             // Suma
+            // Este bloque de código realiza la suma de dos números binarios.
+            // Recorre cada bit de los números de derecha a izquierda (del bit menos significativo al más significativo).
+            // Realiza la suma bit a bit, teniendo en cuenta el acarreo de la suma anterior.
             for (int i = 31; i >= 0; --i)
             {
                 int suma = Numerobinario[i] + Numerobinario_2[i] + Acarreo;
@@ -69,6 +72,9 @@ int main()
             break;
         case 2:
             // Resta
+            // Este bloque de código realiza la resta de dos números binarios.
+            // Recorre cada bit de los números de derecha a izquierda (del bit menos significativo al más significativo).
+            // Realiza la resta bit a bit, teniendo en cuenta el acarreo de la resta anterior
             for (int i = 31; i >= 0; --i)
             {
                 int resta = Numerobinario[i] - Numerobinario_2[i] - Acarreo;
@@ -86,6 +92,9 @@ int main()
             break;
         case 3:
             // Multiplicación
+            // Este bloque de código realiza la multiplicación de dos números binarios.
+            // Utiliza un enfoque de multiplicación de bit a bit y luego suma los resultados parciales.
+            // Finalmente, muestra el resultado de la multiplicación en binario.
             for (int i = 0; i < 32; ++i)
             {
                 for (int j = 0; j < 32; ++j)
